@@ -2,8 +2,11 @@
 
 apt remove deepin-terminal -y
 apt remove qbittorrent -y
-apt remove ani-cli -y
 apt remove mpv -y
 cd ..
 sudo rm -r ani-cli
+cd
+cd /usr/local/bin/
+sudo rm ani-cli
+cd
 sudo rm -r x
