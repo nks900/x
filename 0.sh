@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo -i
 apt install deepin-terminal -y
 apt install qbittorrent -y
 apt install telegram-desktop -y
@@ -9,7 +10,6 @@ cd ani-cli
 sudo make
 cd ..
 deepin-terminal
-sudo -i
 
 
 
