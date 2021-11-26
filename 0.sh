@@ -8,6 +8,7 @@ git clone https://github.com/pystardust/ani-cli.git
 cd ani-cli
 sudo make
 cd ..
+deepin-terminal
 
 
 
