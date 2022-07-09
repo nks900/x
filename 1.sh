@@ -9,7 +9,7 @@ cd
 cd /usr/local/bin/
 sudo rm ani-cli
 cd
-cd /home/synnefo/Downloads
+cd ~/Downloads
 rm -r Telegram\ Desktop/
 cd
 sudo rm -r x
